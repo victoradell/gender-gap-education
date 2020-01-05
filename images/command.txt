@@ -1,0 +1,8 @@
+convert original.gif target.png
+ffmpeg -i source.gif animation%03d.png
+
+
+
+convert -delay 80 -loop 0 *.png myimage.gif
+
+
