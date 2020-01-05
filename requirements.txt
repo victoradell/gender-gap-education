@@ -1,0 +1,4 @@
+altair==4.0.0
+country-converter==0.6.7
+pandas==0.25.3
+vega-datasets==0.8.0
